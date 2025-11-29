@@ -18,9 +18,10 @@
 
 ![Dashboard Screenshot](dashboard-screenshot.png)
 
-> *Click on the image to view full dashboard*
 
----
+<img width="2316" height="1326" alt="Data Professional Survey Breakdown" src="https://github.com/user-attachments/assets/44cf47de-6855-4926-94d2-1d6afa892140" />
+
+
 
 ## 📋 Table of Contents
 
